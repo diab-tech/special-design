@@ -90,8 +90,17 @@ colorsContainer.addEventListener("click", event=> {
 
 // ==============================================
 // change landing background
-let images = ["../images/milin-john-R8fE5P1FoEE-unsplash.jpg", "../images/pexels-bri-schneiter-28802-346529.jpg", "../images/pexels-confinedriley-11654779.jpg", "../images/pexels-eberhardgross-640809.jpg", "../images/pexels-miguel-mallari-3716324-5549660.jpg", "../images/pexels-pixabay-41951.jpg", "../images/pexels-sebastiaan9977-1097456.jpg", "../images/pexels-zhuzichun-229759257-12086414.jpg", "../images/subtle-cinematics-KEI-VNDi0_g-unsplash.jpg"];
-
+let images = [
+    "https://diab-tech.github.io/special-design/images/milin-john-R8fE5P1FoEE-unsplash.jpg",
+    "https://diab-tech.github.io/special-design/images/pexels-bri-schneiter-28802-346529.jpg",
+    "https://diab-tech.github.io/special-design/images/pexels-confinedriley-11654779.jpg",
+    "https://diab-tech.github.io/special-design/images/pexels-eberhardgross-640809.jpg",
+    "https://diab-tech.github.io/special-design/images/pexels-miguel-mallari-3716324-5549660.jpg",
+    "https://diab-tech.github.io/special-design/images/pexels-pixabay-41951.jpg",
+    "https://diab-tech.github.io/special-design/images/pexels-sebastiaan9977-1097456.jpg",
+    "https://diab-tech.github.io/special-design/images/pexels-zhuzichun-229759257-12086414.jpg",
+    "https://diab-tech.github.io/special-design/images/subtle-cinematics-KEI-VNDi0_g-unsplash.jpg"
+  ];
 // Preload Images Function
 preloadedImage(images);
 
