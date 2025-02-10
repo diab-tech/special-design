@@ -3,6 +3,7 @@
 }
 body {
     font-family: "open-sans",cairo, sans-serif;
+font-size: 1rem;
 }
 /* ==================grid system=================== */
 .container {
